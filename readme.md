@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/ghadipeter/8a040be2-e43a-4eae-abb5-410745e1453a/2f9e4dfe-f7e9-4409-8c13-0cf37876fea7/_apis/work/boardbadge/d381d959-53db-4518-8ad7-c7e2a2ca273f)](https://dev.azure.com/ghadipeter/8a040be2-e43a-4eae-abb5-410745e1453a/_boards/board/t/2f9e4dfe-f7e9-4409-8c13-0cf37876fea7/Microsoft.RequirementCategory)
 # AZ-204: Developing solutions for Microsoft Azure
 
 - **Direct students** to [https://aka.ms/az204labs](https://aka.ms/az204labs) for an easy-to-use list of lab instructions.
